@@ -3,8 +3,136 @@
 img, media {
   max-width: 100%; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_carrusel_medios_top\.scss}line{font-family:\000031}}
+#block-views-carrusel-medios-block {
+  background: rgba(0, 0, 0, 0.3);
+  padding-top: 1px;
+  padding-bottom: 1px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_carrusel_medios_top\.scss}line{font-family:\000035}}
+  #block-views-carrusel-medios-block .item-list ul {
+    padding: 0px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_carrusel_medios_top\.scss}line{font-family:\000038}}
+  #block-views-carrusel-medios-block .item-list ul li {
+    list-style: none;
+    margin-right: 10px;
+    margin-left: 3px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_carrusel_medios_top\.scss}line{font-family:\0000313}}
+  #block-views-carrusel-medios-block .views-row > div {
+    display: inline-block;
+    list-style: none; }
+
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_global\.scss}line{font-family:\000031}}
 .l-main {
   max-width: 1200px;
+  margin: 0 auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_global\.scss}line{font-family:\000036}}
+.breadcrumb li {
+  list-style: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_global\.scss}line{font-family:\000039}}
+  .breadcrumb li a {
+    text-decoration: none;
+    background: #F6F6F6;
+    color: #2C2C2C;
+    padding: 3px;
+    border-radius: 5px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\000031}}
+h1 {
+  text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\000034}}
+.group-right {
+  padding: 5px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\000037}}
+  .group-right .field-collection-container {
+    border: none;
+    margin: 0px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000311}}
+  .group-right .impacto {
+    width: 90%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000321}}
+  .group-right .buenos,
+  .group-right .malos,
+  .group-right .neutros,
+  .group-right .likes,
+  .group-right .compartidas {
+    min-width: 50px;
+    max-width: 100px;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+    display: inline-block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000333}}
+  .group-right .buenos {
+    background: #24CC7E;
+    color: #fff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000338}}
+  .group-right .malos {
+    background: #CC2432;
+    color: #fff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000343}}
+  .group-right .neutros {
+    background: gray;
+    color: #fff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000348}}
+  .group-right .likes {
+    background: #244ECC;
+    color: #fff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000353}}
+  .group-right .compartidas {
+    background: #F6F6F6;
+    color: #2C2C2C; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000359}}
+  .group-right .links .field__item a {
+    background: gray;
+    color: #fff;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000371}}
+  .group-right .links .field__item a:hover {
+    text-decoration: underline;
+    background: #5D5D5D; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000377}}
+  .group-right .medio {
+    margin: 0	 auto;
+    text-align: center;
+    color: #2C2C2C;
+    font-size: 35px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000384}}
+  .group-right .medio a {
+    text-decoration: none;
+    color: #2C2C2C;
+    font-weight: normal;
+    text-transform: uppercase; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000395}}
+.group-left .field-collection-container {
+  border: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\0000399}}
+.group-left figure {
   margin: 0 auto;
-  background: gray; }
+  width: 50%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\00003103}}
+  .group-left figure img {
+    margin: 0 auto;
+    width: 100%;
+    height: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_incidencias\.scss}line{font-family:\00003112}}
+.group-left .body {
+  max-width: 550px;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+  border-radius: 0px;
+  background: #F6F6F6;
+  color: #2C2C2C;
+  margin: 10px auto; }

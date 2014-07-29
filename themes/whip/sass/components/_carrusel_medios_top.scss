@@ -1,0 +1,17 @@
+#block-views-carrusel-medios-block{
+  background: rgba(0,0,0,0.3);
+  padding-top:1px;
+  padding-bottom: 1px;
+  .item-list ul{
+  	padding: 0px;
+  } 
+  .item-list ul li{
+  	list-style: none;
+  	margin-right: 10px;
+  	margin-left: 3px;
+  }
+  .views-row >div{
+    display: inline-block;
+    list-style: none;
+  }
+}

@@ -1,5 +1,16 @@
 .l-main{
   max-width: 1200px;
-  margin: 0 auto;
-  background: gray;
+  margin: 0 auto;	
+}
+
+.breadcrumb li {
+  list-style: none;
+
+  a{
+    text-decoration: none;
+    background: #F6F6F6;
+  	color: #2C2C2C;
+  	padding: 3px;
+  	border-radius: 5px;
+  }
 }
