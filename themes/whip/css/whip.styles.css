@@ -1,5 +1,10 @@
+/* No files to import found in abstractions/**\/* */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/base\/_media\.scss}line{font-family:\000031}}
 img, media {
-  max-width: 100%;
-}
+  max-width: 100%; }
 
-/* No files to import found in partials/components/**\/* */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/vipomx\/Sites\/drupalsites\/html\/sites\/local\.whip\.com\/themes\/whip\/sass\/components\/_global\.scss}line{font-family:\000031}}
+.l-main {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: gray; }
