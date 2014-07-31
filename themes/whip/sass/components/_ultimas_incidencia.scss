@@ -1,0 +1,24 @@
+#block-views-ultimas-incidencias-block{
+  max-height: 500px;
+  overflow: scroll;
+  .view-content .views-row{
+    >div{
+      display: inline-block;
+    }
+    .views-field-field-medio-incidencia{
+    	padding:14px 10px 14px 30px;
+    	background: black;
+    	width: 150px;
+    }
+
+    .views-field-field-medio-incidencia a{
+      text-decoration: none;
+      color: red;
+      font-weight: lighter;
+    }
+
+    .views-field-title{
+      background: #E3E3E3;
+    }
+  }
+}

@@ -1,5 +1,5 @@
 #block-views-carrusel-medios-block{
-  background: rgba(0,0,0,0.3);
+  background: black;
   padding-top:1px;
   padding-bottom: 1px;
   .item-list ul{
@@ -9,6 +9,7 @@
   	list-style: none;
   	margin-right: 10px;
   	margin-left: 3px;
+    color: green;
   }
   .views-row >div{
     display: inline-block;

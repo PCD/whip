@@ -1,0 +1,15 @@
+#block-views-contenido-unico-block{
+  background: #E3E3E3;
+  text-align: center;
+  max-height: 500px;
+  overflow: scroll;
+  .view-content{
+  	.field--name-field-medio-incidencia{
+  		background: black;
+  		color: green;
+  		display: block;
+  		padding: 5px;
+  		font-size: 25px;		
+  	}
+  }
+}
